@@ -24,6 +24,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areallypawa&layout=compact&theme=tokyonight" />
 </a>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65aeadae0c548122831ed2d8?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65aeadae0c548122831ed2d8?variant=dark" alt="roadmap.sh"/></a>
 
 ## :large_orange_diamond:Subscribe. See you later!
