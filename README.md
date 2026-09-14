@@ -10,14 +10,6 @@
       but for now I am studying frontend website development. Here are my tools that I can use when creating websites:
 </p>
 
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areallypawa/areallypawa/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/areallypawa/areallypawa/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/areallypawa/areallypawa/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
 ###
 
 <div data-importer="techs" align="center">
@@ -50,16 +42,15 @@
 
 ## :small_blue_diamond:Where I`am?
 <p align="center">
-  I live in Russia and study in high school in the 10th grade. Programming is my hobby with which I can earn money. I try to practice more often, here are my stats:
+  I live in Russia and study in university SPB "LETI". Programming is my hobby with which I can earn money. I try to practice more often, here are my stats:
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=areallypawa&theme=tokyonight&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github.com/areallypawa/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areallypawa&layout=compact&theme=tokyonight" />
-</a>
+<br clear="both">
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65aeadae0c548122831ed2d8?variant=dark" alt="roadmap.sh"/></a>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areallypawa/areallypawa/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/areallypawa/areallypawa/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/areallypawa/areallypawa/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Minecraft+RUS&pause=1000&color=327BF7&width=435&lines=%D0%9F%D0%BE%D0%BA%D0%B0...;bye!)](https://git.io/typing-svg)
